@@ -1,0 +1,4 @@
+Model file: The final trained model must be saved as a pickle file. Please
+find instructions on how to save a trained model in Pytorch and how to
+save it in an sklearn
+
