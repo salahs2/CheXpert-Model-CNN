@@ -1,4 +1,4 @@
-# 4AL3 Final Project Data Installation Guide
+# 4AL3 Final Research Project Data Installation Guide
 
 # Data Overview
 
